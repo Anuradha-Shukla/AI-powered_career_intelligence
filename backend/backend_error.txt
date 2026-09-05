@@ -1,0 +1,4 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\anura\\AI-Career-Intelligence-Platform\\backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [23100] using StatReload
+ERROR:    Error loading ASGI app. Attribute "app" not found in module "app.main".
